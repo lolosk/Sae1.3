@@ -17,3 +17,8 @@ vous allez devoir effectuer plusieurs tâches :
 — Reconstruire un signal sonore à partir de plusieurs signaux sonores
 Pour résoudre ce problème, nous utiliserons le logiciel Matlab permettant à la fois d’acquérir,
 visualiser et traiter des signaux de plusieurs formes.
+
+2 Activité n°2 : séparé une image et la remettre dans le bon ordre
+— Utiliser un fonction caché
+— Déterminer les partie d'une image avec des matrice
+— Savoir utiliser l'ordre et la forme dans l'environnement Matlab
